@@ -1,0 +1,9 @@
+.box{
+    padding: 10px 15px;
+    border:  2px solid rebeccapurple;
+    background: lightblue;
+    color: azure;
+    font-family: cursive;
+    border-radius: 8px;
+    margin: 10px auto;
+}
